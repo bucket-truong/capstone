@@ -8,13 +8,13 @@ User Story:
 
 -When a user visits the app, they will be presented with a form to upload a image with plain english text. The user will then upload an image with text that they want to translate to any given language. After uploading, the app will then display the result on the same page.
 
-
+```
 HOW TO GET STARTED:
 
-- CLONE REPO
--RUN ```npm install``` 
--THEN RUN ``npm start``
-
+1. CLONE REPO
+2. RUN npm install 
+3. THEN RUN npm start
+```
 
 MVP
 
