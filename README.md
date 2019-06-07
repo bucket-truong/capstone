@@ -15,3 +15,7 @@ MVP
 -Use the Google Cloud Translation API and get it to convert from english text to another language.
 
 -Pass the data from the SAP API to the Google translate API and display the result on the page.
+
+enable cors in chrome:
+
+-https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en
